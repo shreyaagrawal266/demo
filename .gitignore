@@ -1,0 +1,10 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+# node
+node_modules/
+# OS
+.DS_Store
